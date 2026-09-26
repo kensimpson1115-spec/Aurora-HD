@@ -1,0 +1,34 @@
+Aurora HD
+
+Aurora HD is a modified RuneLite graphics plugin derived from the 117 HD
+project. This repository preserves upstream copyright notices, source-file
+headers, third-party asset notices, and the BSD 2-Clause license retained in
+LICENSE.
+
+Upstream attribution:
+
+- 117 HD / RLHD and its contributors.
+- RuneLite and its contributors, where applicable.
+- Third-party asset and shader contributors listed in source headers and in
+  src/main/resources/rs117/hd/scene/textures/000_licenses.txt.
+
+Modification notice:
+
+Aurora HD contains modifications for Aurora-owned renderer identity, graphics
+presets, water, sky, environmental effects, world-detail material work,
+configuration cleanup, performance cleanup, documentation replacement, and
+repository identity updates. These changes are modifications of this fork and
+should not be represented as original 117 HD work.
+
+AI-assisted development notice:
+
+Portions of Aurora-specific code, documentation, cleanup, and review work were
+created with AI assistance under user direction and review. AI-assisted changes
+are part of this modified fork and do not remove or replace any upstream
+copyright, attribution, patent, trademark, or third-party notices.
+
+Additional license notes:
+
+The root LICENSE describes the inherited project license. Gradle wrapper files
+include Apache 2.0 notices in their own headers. Bundled texture and asset
+licenses remain governed by their individual notices.
